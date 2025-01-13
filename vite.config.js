@@ -6,7 +6,7 @@ export default defineConfig({
   server: {
     host: true
   },
-  base: '/swv/',
+  base: '/sample-webpage-vite/',
   build: {
     outDir: 'docs',
   },
