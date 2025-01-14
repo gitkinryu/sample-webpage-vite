@@ -3,7 +3,9 @@ import "./App.css";
 function App() {
   return (
     <div>
-      こんにちは！
+      <h1>viteの練習</h1>
+      <p>こんにちは！このページはviteの練習なんで気にしないでください。
+      </p>
     </div>
   );
 }
